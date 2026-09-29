@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.dargeryu.deepread",
+    "sha256_cert_fingerprints": ["9A628688D67161B632382D6E82FEAAAD8AA0E90E418CDC99924CFE64011C2AA2"]
+  }
+}]
